@@ -1,0 +1,36 @@
+.shr1 {
+	font-size: 70pt;
+}
+
+.shr2 {
+	font-size: 40pt;
+}
+
+.shr3 { 
+	color: white;
+	
+}
+.leftimg {
+	float: left;
+	margin: 7px 7px 7px 0;
+}
+
+body {
+	margin: 0;
+	height: 100%;
+	background: url(03.jpg);
+	background-size: cover; 
+	background-attachment: fixed;
+}
+
+a {
+	color: #4169E1;
+}
+
+a:active {
+	color: #00BFFF;
+}
+
+a:visited {
+	color: #1E90FF;
+}
